@@ -1,3 +1,3 @@
 # Crown Magnets
 
-## Online Magnet retail shop using, React, Redux, Firebase, Stripe
+## Online Magnet retail shop using React, Redux, Firebase, Stripe
